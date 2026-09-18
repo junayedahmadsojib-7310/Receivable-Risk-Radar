@@ -1,0 +1,5 @@
+# Receivable-Risk-Radar
+streamlit
+pandas
+plotly
+requests

@@ -1,1 +1,0 @@
-# Receivable-Risk-Radar
